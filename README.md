@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi there I'm Anshuman Agarwal 👋
 
-<!--
-**Anshuman11o/Anshuman11o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  -I am pursuing my Bachelor's degree in Computer Science at Umass Amherst 
+  -My expected graduation date is May'26
+  -I am interested in AI and Software Development
+  -SWE (AI & Data Analytics) intern at Embee Software over Summer'24  
+  -Looking for Internship opportunities as a software developer 
+  -Check out the projects I have worked on in my repositories
 
-Here are some ideas to get you started:
+## Connect with me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  -LinkedIn: https://www.linkedin.com/in/aryaman-agarwal](https://www.linkedin.com/in/anshuman-agarwal-9071931b6/
+  -Email Id: agarwal.anshuman1@gmail.com
+
+## Check out my Project:
+
+  -Movie Recommender System:https://movie-recommender-system-11o-7fec3d4e884a.herokuapp.com/
