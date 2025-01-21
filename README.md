@@ -1,8 +1,7 @@
 ## Hi there I'm Anshuman Agarwal 👋
 
       •I am pursuing my Bachelor's degree in Computer Science at Umass Amherst 
-      •My expected graduation date is May'26
-      •I am interested in AI and Software Development
+      •I am interested in AI, Robotics and Software Development
       •SWE (AI & Data Analytics) intern at Embee Software over Summer'24  
       •Looking for Internship opportunities as a software developer 
       •Check out the projects I have worked on in my repositories
