@@ -6,13 +6,13 @@
       •SWE (AI & Data Analytics) intern at Embee Software over Summer'24  
       •Looking for Fall'25 Co-op opportunities as a software engineer 
       •Check out the projects I have worked on in my repositories
-      •Check out my <a href="https://personal-portfolio-anshuman11o.replit.app/">Personal Portfolio</a>
 
 ## Connect with me:
 
-      •LinkedIn: https://www.linkedin.com/in/aryaman-agarwal](https://www.linkedin.com/in/anshuman-agarwal-9071931b6/
+      •LinkedIn: www.linkedin.com/in/anshuman11o
       •Email Id: agarwal.anshuman1@gmail.com
 
 ## Check out my Project:
 
-      •Movie Recommender System: https://movie-recommender-system-11o-7fec3d4e884a.herokuapp.com/
+[Movie Recommender System](https://movie-recommender-system-11o-7fec3d4e884a.herokuapp.com/)
+[Personal Portfolio](https://personal-portfolio-anshuman11o.replit.app/)
