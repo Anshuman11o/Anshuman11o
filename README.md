@@ -3,8 +3,8 @@
       •I am pursuing my Bachelor's degree in Computer Science at Umass Amherst 
       •I am interested in AI, Robotics and Software Development
       •AI Software Engineer intern at Commonwealth of Massachusetts  
-      •SWE (AI & Data Analytics) intern at Embee Software over Summer'24  
-      •Looking for Fall'25 Co-op opportunities as a software engineer 
+      •AI & Data Analytics intern at Embee Software over Summer'24  
+      •Looking for summer'26 internship opportunities as a AI software engineer 
       •Check out the projects I have worked on in my repositories
 
 ## Connect with me:
