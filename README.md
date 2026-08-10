@@ -1,8 +1,8 @@
 ## Hi there I'm Anshuman Agarwal 👋
 
-      •I am a Junior pursuing my Bachelor's degree in Computer Science at Umass Amherst (Expected graduation: May 2027)
-      •I am interested in AI, ML, Robotics and Software Development
-      •Machine Learning intern at IOMICS Corporation
+      •I am a Senior pursuing my Bachelor's degree in Computer Science at Umass Amherst (Expected graduation: Dec 2026)
+      •I am interested in AI, ML, Robotics, Biotech and Software Development
+      •Machine Learning intern at IOMICS Corporation over Summer'26
       •AI Software Engineer intern at Commonwealth of Massachusetts over Summer'25
       •AI & Data Analytics intern at Embee Software over Summer'24  
       •Looking for summer'26 internship opportunities as in AI, ML, SWE or Robotics 
